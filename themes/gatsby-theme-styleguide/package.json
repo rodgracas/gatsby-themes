@@ -21,7 +21,7 @@
     "theme-ui": ">=0.3 <0.4"
   },
   "dependencies": {
-    "@lekoarts/gatsby-theme-specimens": "^2.3.8"
+    "@lekoarts/gatsby-theme-specimens": "^2.3.10"
   },
   "keywords": [
     "gatsby",
